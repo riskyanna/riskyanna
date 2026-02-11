@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm RISKI RAMADHAN 👋
 
-<!--
-**riskyanna/riskyanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer who loves building everything from mobile apps to high-performance backend systems. Currently leveling up in **Go** and **Next.js**.
 
-Here are some ideas to get you started:
+### 🛠 My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Tools & Frameworks |
+| :--- | :--- |
+| **Mobile** | Flutter, React Native |
+| **Frontend** | React.js, Next.js, TailwindCSS |
+| **Backend** | Node.js, Go, Laravel (PHP) |
+| **Database** | MySQL, PostgreSQL, MongoDB |
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=riskyanna&show_icons=true&theme=tokyonight" alt="Riski's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskyanna&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+### 📫 Let's Connect!
+- 💼 **LinkedIn:** [linkedin.com/in/username-kamu](https://linkedin.com/in/username-kamu)
+- 📧 **Email:** [email-kamu@gmail.com](mailto:email-kamu@gmail.com)
+
+---
+*"Talk is cheap. Show me the code."*
